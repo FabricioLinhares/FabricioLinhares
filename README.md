@@ -15,7 +15,7 @@
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabriciolinhares&show_icons=true&locale=en&layout=compact" alt="fabriciolinhares" /</p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabriciolinhares&show_icons=true&locale=en&layout=compact" alt="fabriciolinhares" /</p>
 </details>
 <details>
   <summary>:zap: GitHub Stats</summary>
