@@ -18,8 +18,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabriciolinhares&" alt="fabriciolinhares" /></p>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <details>
   <summary>:zap: Most Used Languages</summary>
