@@ -2,7 +2,7 @@
 
 ## A student passionate about computing. Also, I'm a developer in training.
 
-- 🌱 I’m currently learning **ReactJS, Next.js, ChackraUI, Redux**
+- 🌱 I’m currently learning **TypeScript, Next.js, ChackraUI, Redux**
 - ⚡ Fun fact **I'm addicted to reading manga 😳**
 - 📫 How to reach me **fabriciorodrigues1231@outlook.com**
 
