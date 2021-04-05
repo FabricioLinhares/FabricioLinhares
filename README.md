@@ -2,8 +2,11 @@
 
 ## A student passionate about computing. Also, I'm a developer in training.
 
+- 🔭 I’m currently working on Softeam as a Front-end Developer.
 - 🌱 I’m currently learning **TypeScript, Next.js, React-Native, Redux**
-- ⚡ Fun fact **I'm addicted to reading manga 😳**
+- ⚡ Fun facts: 
+  - **I'm addicted to reading manga 😳**
+  - **My favorite game is SAMP**
 - 📫 How to reach me **fabriciorodrigues1231@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
