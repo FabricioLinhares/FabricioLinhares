@@ -1,9 +1,9 @@
 ### Hi 👋, I'm Fabricio Linhares
 
-## A student passionate about computing. Also, I'm a developer in training.
+## A student passionate about computing. Also, I'm a front-end developer.
 
 - 🔭 I’m currently working on Softeam as a Front-end Developer.
-- 🌱 I’m currently learning **TypeScript, Next.js, React-Native, Redux**
+- 🌱 I’m currently learning **TypeScript, Redux**
 - ⚡ Fun facts: 
   - **I'm addicted to reading manga 😳**
   - **My favorite game is SAMP**
